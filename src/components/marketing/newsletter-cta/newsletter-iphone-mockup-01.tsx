@@ -67,7 +67,7 @@ export const NewsletterIPhoneMockup01 = () => {
     <section className="flex min-h-screen items-center justify-center overflow-hidden bg-primary px-4">
       <div className="relative w-full max-w-md">
         <Input
-          isRequired
+          
           size="lg"
           name="query"
           type="text"
